@@ -1,0 +1,15 @@
+{
+  "name": "google-drive-ownership-transfer",
+  "version": "1.0.0",
+  "description": "Transfer ownership of Google Drive files",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["google-drive", "ownership-transfer", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^134.0.0"
+  }
+}
